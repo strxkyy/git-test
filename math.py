@@ -5,4 +5,4 @@ if numero % 2 == 0:
     print("o numero e par")
 
 else :
-   print("o numero")
+   print("o numero è impar")
